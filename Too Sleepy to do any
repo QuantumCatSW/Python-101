@@ -1,1 +1,6 @@
+Typically you would ise fucntion as 
 
+```
+def some_fuction(smth):
+  print(smth)
+```
